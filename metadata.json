@@ -1,0 +1,6 @@
+{
+  "name": "CTZ BOT",
+  "description": "Modern Telegram Mini App & Telegram Bot with futuristic red and black cyber aesthetic, tap-to-earn rewards, tasks, referrals, leaderboard, and secure admin panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
