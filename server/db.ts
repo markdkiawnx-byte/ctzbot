@@ -2,7 +2,7 @@ import { DatabaseSync } from 'node:sqlite';
 import path from 'node:path';
 import fs from 'node:fs';
 
-const DB_PATH = path.resolve(process.cwd(), 'ctz_bot.sqlite'); 
+const DB_PATH =  
 
 let dbInstance: DatabaseSync | null = null;
 
